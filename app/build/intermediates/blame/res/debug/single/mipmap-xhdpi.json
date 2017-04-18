@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\MyLocalGit1\\VisionAppPrj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "F:\\MyLocalGit1\\VisionAppPrj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

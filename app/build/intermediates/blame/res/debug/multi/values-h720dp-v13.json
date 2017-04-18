@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

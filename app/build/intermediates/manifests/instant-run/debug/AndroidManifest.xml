@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.cuisy.visionappprj"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- &lt;!&ndash; 获取GSM（2g）、WCDMA（联通3g）等网络状态的信息 &ndash;&gt; -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
+    <!-- &lt;!&ndash; 获取WiFi网络状态的信息 &ndash;&gt; -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> -->
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.android.cuisy.visionappprj.view.GuideActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.android.cuisy.visionappprj.activity.LoginActivity" >
+        </activity>
+        <activity
+            android:name="com.android.cuisy.visionappprj.activity.MainActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.android.cuisy.visionappprj.activity.SettingActivity"
+            android:label="@string/Setting" >
+        </activity>
+
+        <service
+            android:name="com.android.cuisy.visionappprj.timerService.Timer"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.android.cuisy.visionappprj.activity.TreeNodeActivity"
+            android:label="@string/location_list" >
+        </activity>
+        <activity
+            android:name="com.android.cuisy.visionappprj.activity.CameraListActivity"
+            android:label="@string/camera_list" >
+        </activity>
+        <activity android:name="com.android.cuisy.visionappprj.activity.CameraDetailActivity" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.android.cuisy.visionappprj.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

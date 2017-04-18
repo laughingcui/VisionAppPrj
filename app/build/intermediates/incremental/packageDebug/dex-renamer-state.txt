@@ -1,0 +1,7 @@
+#Tue Apr 18 17:10:18 CST 2017
+base.0=F\:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5f7716d612261b6c08487daaeb87079af73161c8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_21899df1dd83d79e783debda3e644c2b3135d75a\\classes.dex
+base.1=F\:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_21899df1dd83d79e783debda3e644c2b3135d75a
+file.0=F\:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5f7716d612261b6c08487daaeb87079af73161c8\\classes.dex
