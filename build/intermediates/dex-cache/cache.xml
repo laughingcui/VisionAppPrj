@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpmime-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bdb321e86724b16af6134a0fd22fec649eda971">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.5_007b80864543ec5ac8ffd88a9660419134149a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6597d60d0a335df4775ffa8252942208e791c3e1">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f7716d612261b6c08487daaeb87079af73161c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_bca4fc0211375ff0eb614e87bd80b4259fbed036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SoftWare\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d9aabf9271ee50394a58196caf28a6385d12054f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\commons-codec-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_2c44d17b27fd2b18ab7afeee87afcb07bde74a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5_d6464c49391a2a3c61762dd284e5e38e5e88cf35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\jna-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-4.1.0_4126b1d92611af335898f4adbeec7e9c86601af9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\646ba343a98aad7120f48cc3ea00b017c2576dbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f45074a48ecb86ef38a3e44ee00451f346be3c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-platform-4.1.0_7179b4ee50b0a035591c958f86d255077f26b684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b585863eca6016104e7e7204b44b44691e8eb83b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48453699d8f673cf78d0d9c41018d1681a03b567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-win-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f384c9c8ed771664b135cdb593e2235e4ea3524">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-win-4.5_51aa30006c46a57ffb682fc97ada878cc6b94141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e1e4da35a0731d30c9fdc7a9cebf7b270f7aaa1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54d6ccd97225521bfcb2b16127a8aba44ca5b20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c3332a9f1aeb7892663f3aca11f0bfb045a23499\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a927a7edb01848fea2281c64a13b841ded0ad2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\fluent-hc-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b83009428e935d37c2312b780de64b67f9131a5">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.5_896c42d371896e38c9f5b99385919a2507be00b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\commons-codec-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_2c44d17b27fd2b18ab7afeee87afcb07bde74a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\fluent-hc-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b83009428e935d37c2312b780de64b67f9131a5">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.5_896c42d371896e38c9f5b99385919a2507be00b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SoftWare\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d9aabf9271ee50394a58196caf28a6385d12054f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_0b11a253c3a8b8c1bddc801b4a804d645d21a5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21899df1dd83d79e783debda3e644c2b3135d75a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.1_2f4f6a5f5c6ff4ff80fdbcc198f0ef03dabbb764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2f91bb7f9053ee6005a3d550b01f34a45a12e045\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1058b23a42fc4155a7a9bfb693ef47bd8a8abd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpmime-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bdb321e86724b16af6134a0fd22fec649eda971">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.5_007b80864543ec5ac8ffd88a9660419134149a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b2f9d34a3c6b53bb71a7ad75b27dc0df48000f94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5d6cfe11a436432fd0582b7d37907fde71ddc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_bca4fc0211375ff0eb614e87bd80b4259fbed036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\aec63a6508771701b1dbb48545853b2dc4582d29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5b44ce42120ac91236548f3ab96fe235740ccc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-win-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f384c9c8ed771664b135cdb593e2235e4ea3524">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-win-4.5_51aa30006c46a57ffb682fc97ada878cc6b94141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-cache-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8704e3cf3e56c4fc135d5a5e02970d521ccf80">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.5_b988ac3ca2a0894810929d0035efecc43540f133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\22bde7b2199d701ecb38f927bba3cb409b721e4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10b1c4547fba23411cbbd908785dd69b74d28a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_2323b0689b69c651dc52b5f9e0fa5ab289cff959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f09c56bdd795e31ca0fb0fd7ef7f8224170b99ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41bba9d1e56f2ebe715dd1b5c88637ea44ad62d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_2323b0689b69c651dc52b5f9e0fa5ab289cff959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-platform-4.1.0_7179b4ee50b0a035591c958f86d255077f26b684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-cache-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd8704e3cf3e56c4fc135d5a5e02970d521ccf80">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.5_b988ac3ca2a0894810929d0035efecc43540f133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93acaf56338ed092868b7ca8fd63443bae6505a6">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f7716d612261b6c08487daaeb87079af73161c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\jna-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-4.1.0_4126b1d92611af335898f4adbeec7e9c86601af9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21899df1dd83d79e783debda3e644c2b3135d75a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_0b11a253c3a8b8c1bddc801b4a804d645d21a5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpclient-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5_d6464c49391a2a3c61762dd284e5e38e5e88cf35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyLocalGit1\VisionAppPrj\app\libs\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.1_2f4f6a5f5c6ff4ff80fdbcc198f0ef03dabbb764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6d9d953318faf6420f9f01e29d06ca0a31b4a0e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_429e194ffaf76ca0141ed041d69a28b30d976774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d3b1e7db88f79710431a41015533d9ade05e0641\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9147ee49d2cdc966fe195ad535a3f57558bb75d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4233bc829f029d9a1f229c95ea80acb649cb0a65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\MyLocalGit1\VisionAppPrj\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89f65508de42a54e74425fd13f964bc98973b2d4\classes.dex" />
+    </item>
+
+</items>
