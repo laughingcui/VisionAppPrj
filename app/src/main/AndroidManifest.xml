@@ -12,11 +12,11 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
-    <!--&lt;!&ndash; 获取GSM（2g）、WCDMA（联通3g）等网络状态的信息 &ndash;&gt;-->
-    <!--<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />-->
-    <!--&lt;!&ndash; 获取WiFi网络状态的信息 &ndash;&gt;-->
-    <!--<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />-->
 
+    <!-- &lt;!&ndash; 获取GSM（2g）、WCDMA（联通3g）等网络状态的信息 &ndash;&gt; -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
+    <!-- &lt;!&ndash; 获取WiFi网络状态的信息 &ndash;&gt; -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> -->
     <application
         android:icon="@drawable/ic_launcher"
         android:theme="@style/AppTheme">
@@ -31,11 +31,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".activity.LoginActivity">
+        <activity android:name=".activity.LoginActivity">
         </activity>
-
         <activity
             android:name=".activity.MainActivity"
             android:theme="@style/AppTheme" />
@@ -51,16 +48,15 @@
 
         <activity
             android:name=".activity.TreeNodeActivity"
-            android:label="@string/location_list">
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
-
         <activity
             android:name=".activity.CameraListActivity"
             android:label="@string/camera_list">
         </activity>
-
-        <activity
-            android:name=".activity.CameraDetailActivity">
+        <activity android:name=".activity.CameraDetailActivity">
+        </activity>
+        <activity android:name=".slide.SlideActivity">
         </activity>
     </application>
 

@@ -1,58 +1,58 @@
 [
     {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1e4da35a0731d30c9fdc7a9cebf7b270f7aaa1d\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1e4da35a0731d30c9fdc7a9cebf7b270f7aaa1d\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1e4da35a0731d30c9fdc7a9cebf7b270f7aaa1d\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1e4da35a0731d30c9fdc7a9cebf7b270f7aaa1d\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\MyLocalGit1\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

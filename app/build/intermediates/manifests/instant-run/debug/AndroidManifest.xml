@@ -50,13 +50,15 @@
 
         <activity
             android:name="com.android.cuisy.visionappprj.activity.TreeNodeActivity"
-            android:label="@string/location_list" >
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
         <activity
             android:name="com.android.cuisy.visionappprj.activity.CameraListActivity"
             android:label="@string/camera_list" >
         </activity>
         <activity android:name="com.android.cuisy.visionappprj.activity.CameraDetailActivity" >
+        </activity>
+        <activity android:name="com.android.cuisy.visionappprj.slide.SlideActivity" >
         </activity>
 
         <provider

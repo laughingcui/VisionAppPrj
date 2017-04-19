@@ -7,10 +7,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.android.cuisy.visionappprj.R;
 import com.android.cuisy.visionappprj.adapter.DepartAdapter;
+import com.android.cuisy.visionappprj.slide.SlideMenu;
 import com.android.cuisy.visionappprj.timerService.Timer;
 import com.android.cuisy.visionappprj.entity.Depart;
 import com.android.cuisy.visionappprj.entity.Constants;
@@ -20,9 +22,10 @@ import com.android.cuisy.visionappprj.xmlParse.ParseXml;
 import java.util.ArrayList;
 import java.util.List;
 
+// 把MainActivity代码移植到这个类先
+public class TreeNodeActivity extends AppCompatActivity implements View.OnClickListener{
 
-public class TreeNodeActivity extends AppCompatActivity {
-
+    private SlideMenu slideMenu;
     private ListView listView;
     private List<Depart> departList = new ArrayList<>();
     DepartAdapter adapter;
@@ -37,11 +40,29 @@ public class TreeNodeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tree_list);
         initView();
         getNode();
         startService(new Intent(TreeNodeActivity.this, Timer.class));//启动定时服务
+        slideMenu = (SlideMenu) findViewById(R.id.slide_menu);
+        ImageView menuImg = (ImageView) findViewById(R.id.title_bar_menu_btn);
+        menuImg.setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.title_bar_menu_btn:
+                if (slideMenu.isMainScreenShowing()) {
+                    slideMenu.openMenu();
+                } else {
+                    slideMenu.closeMenu();
+                }
+                break;
+        }
+
     }
 
     private void initView() {
