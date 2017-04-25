@@ -10,6 +10,8 @@ import android.support.annotation.Nullable;
 import com.android.cuisy.visionappprj.entity.Constants;
 import com.android.cuisy.visionappprj.util.HttpUtil;
 
+import java.util.TimerTask;
+
 /**
  * Created by cuisy on 2017/4/8.
  */
@@ -39,6 +41,10 @@ public class Timer extends Service {
     public void onCreate() {
         super.onCreate();
         new Thread(new MyThread()).start();
+    }
+
+    public void schedule(TimerTask task, int i) {
+
     }
 
     class MyThread implements Runnable {

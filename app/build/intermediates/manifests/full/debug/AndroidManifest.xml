@@ -50,7 +50,7 @@
 
         <activity
             android:name="com.android.cuisy.visionappprj.activity.TreeNodeActivity"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:label="@string/device_list" >
         </activity>
         <activity
             android:name="com.android.cuisy.visionappprj.activity.CameraListActivity"

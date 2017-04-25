@@ -1,214 +1,226 @@
 [
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_return.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_arrow_return.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shelf_category_divider.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_shelf_category_divider.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_bar.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bg_title_bar.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_live_tv_48pt.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_live_tv_48pt.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ccee63424a23a4a004e0150157778182a394302c\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_item_selected_bg.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_item_selected_bg.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dayou_logo3.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\dayou_logo3.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_top_bar_category.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_top_bar_category.png"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_category_item.xml",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\selector_category_item.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_mark.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_category_mark.png"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dayou_logo3.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\dayou_logo3.png"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tree_ex.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\tree_ex.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_top_bar_category.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_top_bar_category.png"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_page_category_bg.xml",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bitmap_page_category_bg.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_book_read_chapterlist_repeat.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bitmap_book_read_chapterlist_repeat.png"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tree_ec.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\tree_ec.png"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_item_normal_bg.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_item_normal_bg.png"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shelf_category_divider.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_shelf_category_divider.png"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_top_divider.png",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_top_divider.png"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_mark.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_category_mark.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_page_category_bg.xml",
-        "source": "F:\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bitmap_page_category_bg.xml"
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "F:\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_item_selected_bg.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_item_selected_bg.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_return.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_arrow_return.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_category_item.xml",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\selector_category_item.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d508b8557f02cd8e2883cf54b9199bb433bf7ed\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_bar.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bg_title_bar.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d508b8557f02cd8e2883cf54b9199bb433bf7ed\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d508b8557f02cd8e2883cf54b9199bb433bf7ed\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bitmap_book_read_chapterlist_repeat.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\bitmap_book_read_chapterlist_repeat.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_live_tv_48pt.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_live_tv_48pt.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_top_divider.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_top_divider.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_item_normal_bg.png",
+        "source": "F:\\MyGitProject\\VisionAppPrj\\app\\src\\main\\res\\drawable\\ic_item_normal_bg.png"
+    },
+    {
+        "merged": "F:\\MyGitProject\\VisionAppPrj\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\646ba343a98aad7120f48cc3ea00b017c2576dbe\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     }
 ]

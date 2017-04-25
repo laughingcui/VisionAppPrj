@@ -78,6 +78,7 @@ public class HttpUtil {
         HttpPost httppost=new HttpPost(urlAddr);
         try {
             HttpResponse httpResponse=new DefaultHttpClient().execute(httppost);
+            System.out.println("httpResponse.getStatusLine().getStatusCode() = " + httpResponse.getStatusLine().getStatusCode());
             if (httpResponse.getStatusLine().getStatusCode()==200) {
                 result = EntityUtils.toString(httpResponse.getEntity(), "GBK");
                 System.out.println("HttpLogInRefresh_服务器返回数据：" + result);

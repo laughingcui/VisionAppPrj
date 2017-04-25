@@ -153,7 +153,6 @@ public class ParseXml {
                         Camera cameraNode = new Camera();
                         System.out.println("end tag");
                         if ("camera".equals(nodeName)) {
-                            System.out.println("11111111111111111111111111111111");
                             cameraNode.setName(name);
                             cameraNode.setDes(des);
                             cameraNode.setChannel(channel);
@@ -167,8 +166,6 @@ public class ParseXml {
                             cameraNode.setParent(parent);
                             cameraNode.setPreset(preset);
                             cameraNodelist.add(cameraNode);
-
-                            System.out.println("~~~~~~~~~~~~~!!!!!!!!!!!");
                             System.out.println("camera : name = " + name);
 
                         } else if ("cameras".equals(nodeName)) {
